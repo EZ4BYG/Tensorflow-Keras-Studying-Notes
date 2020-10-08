@@ -1,6 +1,6 @@
 # Tensorflow2.0 Studying Notes
 
-Contents: notes about how to use Tensorflow2.0 from 0 to 1.
+Contents: notes about how to use Tensorflow2.0 from 0 to 1
 - Multilayer Perceptron(MLP), Logistic Regression, Dropout Layer, One-hot Encoding, tf.keras, Basic concepts 
 - tf.data module, MNIST dataset 
 - Build CNN framework, Fashion MNIST dataset
